@@ -9,6 +9,7 @@ public class Addition {
 			x=sc.nextInt();
 			y=sc.nextInt();
 			System.out.println("The addition is "+(x+y));
+			System.out.println("The Multiplication is "+(x*y));
 			
 		}
 	}
