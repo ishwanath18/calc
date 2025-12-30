@@ -10,7 +10,8 @@ public class Addition {
 			y=sc.nextInt();
 			System.out.println("The addition is "+(x+y));
 			System.out.println("The  substraction is"+(x-y));
-
+			System.out.println("The Multiplication is "+(x*y));
+			
 		}
 	}
 
